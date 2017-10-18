@@ -1,10 +1,16 @@
 # EasySendingTool
 An easy configurable tool that send data atomatically in a location
 
-#Principle
+# Principle
 Copy your file to a specific folder, these files will be send to a dedicated location depending of the folder
 
 Each folder setup is pre-registered.
 A folder can send data through different protocols
 
 Compatibilities with major "saving" location (DropBox, Drives etc ...) must be done.
+
+# First step
+  - Folder creation and auto sending process without identification.
+  
+# Second Step 
+  - adding identification procedure and saving (secured)
